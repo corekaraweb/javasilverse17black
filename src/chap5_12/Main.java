@@ -8,7 +8,7 @@ class A {
 }
 
 class B extends A {
-	String val = "Bあ";
+	String val = "B";
 }
 
 public class Main {
