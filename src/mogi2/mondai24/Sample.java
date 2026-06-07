@@ -6,8 +6,8 @@ public class Sample {
 		String s = "";
 		if (!(obj instanceof String str)) {
 			s = obj.toString();
-		} else {
-			s = str.toLowerCase();
+		} else { 
+			s = str.toLowerCase(); 
 		}
 		return s;
 	}
