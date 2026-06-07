@@ -3,7 +3,7 @@ public class Sample {
 		System.out.println(test("A"));
 	}
 	public static String test(Object obj) {
-		String s = "";
+		String s = "";　
 		if (!(obj instanceof String str)) {
 			s = obj.toString();
 		} else { 
